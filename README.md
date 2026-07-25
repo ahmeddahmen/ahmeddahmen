@@ -1,28 +1,29 @@
-# Hi, I'm Ahmed Dahmen 👋
+<h1 align="center">Hi 👋 I'm Ahmed Dahmen</h1>
 
-Computer Science graduate pursuing a professional **Master's in Networks & Cloud Computing Systems** at the Faculty of Sciences of Sfax (FSS). I build AI-driven and secure systems spanning networking, cloud infrastructure, and full-stack development.
+<p align="center">
+Master's Student in Networks & Cloud Computing @ Faculté des Sciences de Sfax<br>
+Building AI-driven & secure systems
+</p>
 
-- 🎓 M.Sc. Networks & Cloud Computing Systems — FSS *(2025–2027, in progress)*
-- 🌐 Background in web development, networking, and applied cybersecurity
-- 📫 Reach me at **dahmenahmed1@gmail.com** or [LinkedIn](https://linkedin.com/in/ahmed-dahmen)
+![About Me](https://img.shields.io/badge/About%20Me-2E86C1?style=for-the-badge&logoColor=white)
 
----
+I'm a Computer Science graduate currently pursuing a professional **Master's in Networks & Cloud Computing Systems** at the Faculty of Sciences of Sfax (FSS). I build AI-driven and secure systems, spanning networking, cloud infrastructure, and full-stack development.
 
-### 🚀 Featured Projects
+Previously interned as a **Web Developer** at Biosphere, where I migrated a legacy VB.NET desktop application to a modern web platform using Angular, ASP.NET Core, and SQL Server.
 
-**[CyberDefense AI Agent](https://github.com/ahmeddahmen/mcp-cyberdefense-ai)**
+![Projects](https://img.shields.io/badge/Projects-2E86C1?style=for-the-badge&logoColor=white)
+
+### [CyberDefense AI Agent](https://github.com/ahmeddahmen/mcp-cyberdefense-ai)
 Autonomous cybersecurity AI agent connecting Spring AI to LLaMA 3.3 70B (via Groq) through the Model Context Protocol (MCP). Includes MCP tools for port scanning, connection monitoring, and SSH log brute-force detection, exposed through an Angular 18 chat interface.
 `Spring Boot` `Spring AI` `Angular` `Python` `LLaMA 3.3`
 
-**KLARO AI** — IEEE Master Faster 3.0 Hackathon 🏆
+### KLARO AI — IEEE Master Faster 3.0 Hackathon 🏆
 AI-powered learning platform for students with dyslexia and ADHD — smart summaries, flashcards, quizzes, and text-to-speech. Awarded a Certificate of Appreciation from IEEE FSS and GDG on Campus FSS.
 
-**CSRF Attack Demo**
+### CSRF Attack Demo
 Simulated and mitigated a CSRF vulnerability on a banking application using anti-CSRF tokens and SameSite cookies; documented security best practices.
 
----
-
-### 🛠️ Tech Stack
+![Tech Stack](https://img.shields.io/badge/Tech%20Stack-2E86C1?style=for-the-badge&logoColor=white)
 
 **Languages**
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
@@ -47,13 +48,16 @@ Simulated and mitigated a CSRF vulnerability on a banking application using anti
 ![LLaMA](https://img.shields.io/badge/-LLaMA%203.3-000000?style=flat&logo=meta&logoColor=white)
 MCP · Prompt Engineering · Machine Learning
 
----
+![Certifications](https://img.shields.io/badge/Certifications-2E86C1?style=for-the-badge&logoColor=white)
 
-### 📜 Certifications
 - Introduction to Docker — Orange Digital Center
 - AR Development with Vuforia & AR Foundation — Orange Digital Center
 - Certificate of Appreciation — IEEE Master Faster 3.0 Hackathon
 
----
+![Connect](https://img.shields.io/badge/Connect-2E86C1?style=for-the-badge&logoColor=white)
 
-<sub>🇹🇳 Based in Sfax, Tunisia — Arabic (Native), English (Fluent), French (Fluent), German (Basic)</sub>
+- 📧 [dahmenahmed1@gmail.com](mailto:dahmenahmed1@gmail.com)
+- 💼 [LinkedIn](https://linkedin.com/in/ahmed-dahmen)
+- 🇹🇳 Sfax, Tunisia
+
+<sub>Arabic (Native) · English (Fluent) · French (Fluent) · German (Basic)</sub>
