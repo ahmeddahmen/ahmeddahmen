@@ -28,11 +28,28 @@ Simulated and mitigated a CSRF vulnerability on a banking application using anti
 
 ## Tech Stack
 
-**Languages:** Java, Python, C#, PHP, JavaScript, TypeScript, HTML/CSS, MicroPython
-**Frameworks:** Spring Boot, Spring AI, Angular, ASP.NET Core, Node.js
-**Cloud & DevOps:** Docker, Virtualization, Microservices, Git
-**Networking:** HCNA, TCP/IP, SSH, Network Security, Datacenter Infrastructure
-**AI & ML:** LLaMA, MCP, Prompt Engineering, Machine Learning
+**Languages**
+![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![C#](https://img.shields.io/badge/-C%23-239120?style=flat&logo=csharp&logoColor=white)
+![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+
+**Frameworks**
+![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat&logo=springboot&logoColor=white)
+![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat&logo=angular&logoColor=white)
+![.NET](https://img.shields.io/badge/-ASP.NET%20Core-512BD4?style=flat&logo=dotnet&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+
+**Cloud, DevOps & Networking**
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)
+
+**AI & ML**
+![LLaMA](https://img.shields.io/badge/-LLaMA%203.3-000000?style=flat&logo=meta&logoColor=white)
+MCP · Prompt Engineering · Machine Learning
 
 ## Certifications
 
